@@ -1,5 +1,17 @@
-# **Te AtrappO**
-by  ** *Equipo Cinco* **
+# Teatrappo
+
+Se creó una app movil para que las personas tengan toda la información teatral al alcance de su mano en un sólo lugar.
+
+![screencapture-rosyg-github-io-teatrappo-2018-04-03-00_38_46](https://user-images.githubusercontent.com/31233225/38231270-787c3a56-36d7-11e8-890e-ab3374f7e2e2.png)
+
+
+## Desarrollado para [Laboratoria](www.laboratoria.la)
+
+
+
+
+
+
 
 ## **Sobre la _hackathon_**
 
@@ -35,10 +47,6 @@ Deja tiempo para preguntas y respuestas.
 + Prefiere siempre pocas cosas funcionando OK que muchas “a medias”.
 
 -----
-
-## **Sobre el producto** <h2>
-
-Se creó un [sitio  Mobile friendly ](https://github.com/RosyG/teatrappO "Repositorio en Github - TeatrappO") para que las personas tengan toda la información teatral al alcance de su mano en un sólo lugar.
 
 ### Problema (*Validando idea*) <h3>
 
